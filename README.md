@@ -28,6 +28,13 @@
 
 ![image](https://user-images.githubusercontent.com/96287600/170815097-553b7cfe-1e1d-410b-92ef-13befa7d8154.png)
 
+## Goalkeeping
+
+## Defending
+
+## Midfield Play
+
+## Attacking
 
 
 ## Social 📧 
