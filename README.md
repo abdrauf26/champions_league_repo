@@ -15,7 +15,7 @@
 
 ## Download ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-- [Download Jupyter Notebook Document for UEFA Champions League Analysis, Using Data Analytics and Machine Learning ]
+- [Download Jupyter Notebook Document for UEFA Champions League Analysis, Using Data Analytics and Machine Learning ](https://github.com/abdrauf26/champions_league_repo/blob/main/Project%20Capstone%20GitHub%20-%20Champions%20League%20(2013%20-%202020).ipynb)
 
 ## Dataset 📊
 
