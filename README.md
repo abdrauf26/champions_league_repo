@@ -35,10 +35,21 @@
 
 
 ## Defending
+![image](https://user-images.githubusercontent.com/96287600/170914268-b384e5b0-a5c9-420a-81d6-ad00d073101b.png)
+![image](https://user-images.githubusercontent.com/96287600/170914298-b014805e-9689-40f7-b3b4-e76dd6e3a9d7.png)
+![image](https://user-images.githubusercontent.com/96287600/170914317-91d8a9ce-04df-46fc-ba10-fcce7a9976a6.png)
+
 
 ## Midfield Play
+![image](https://user-images.githubusercontent.com/96287600/170914347-243191fd-4d93-46b1-961d-cb0e9874935f.png)
+![image](https://user-images.githubusercontent.com/96287600/170914364-32b3815a-ba74-4b13-8ec1-5e302112923b.png)
+![image](https://user-images.githubusercontent.com/96287600/170914388-5ae96c67-26b0-4c18-8c49-b6cd22d0b3f9.png)
+
 
 ## Attacking
+![image](https://user-images.githubusercontent.com/96287600/170914403-d47e6620-1a7d-4867-a0ac-c34f30de1372.png)
+![image](https://user-images.githubusercontent.com/96287600/170914430-61f53349-8e23-4fdd-bb0f-2a5ebf4dcd7f.png)
+![image](https://user-images.githubusercontent.com/96287600/170914451-32a871e1-2f70-4245-9b57-bf4d2ae3b01b.png)
 
 
 ## Social 📧 
