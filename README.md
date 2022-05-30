@@ -29,6 +29,10 @@
 ![image](https://user-images.githubusercontent.com/96287600/170815097-553b7cfe-1e1d-410b-92ef-13befa7d8154.png)
 
 ## Goalkeeping
+![image](https://user-images.githubusercontent.com/96287600/170914089-fb69dfb8-357a-49db-99cf-32b4e60c0879.png)
+![image](https://user-images.githubusercontent.com/96287600/170914109-89a4ed00-d29c-4d10-ab2d-dc3dd6b9871b.png)
+![image](https://user-images.githubusercontent.com/96287600/170914137-4db52ac1-9dab-4a96-9c4a-043a2efffbb6.png)
+
 
 ## Defending
 
