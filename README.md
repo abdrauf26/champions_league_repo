@@ -51,7 +51,6 @@
 ![image](https://user-images.githubusercontent.com/96287600/170914430-61f53349-8e23-4fdd-bb0f-2a5ebf4dcd7f.png)
 ![image](https://user-images.githubusercontent.com/96287600/170914451-32a871e1-2f70-4245-9b57-bf4d2ae3b01b.png)
 
-![Uploading image.png…]()
 
 ## Social 📧 
 
