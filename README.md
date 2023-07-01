@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/96287600/170814988-af52b1d1-1f64-4979-8046-bc38d25cbdcb.png)
+<img width="661" alt="image" src="https://github.com/abdrauf26/champions_league_repo/assets/96287600/b23663ce-4103-4ab2-a2d1-7b220a57d559">
+
 
 ![image](https://user-images.githubusercontent.com/96287600/170815181-d2bd7f6d-34d0-43a3-ab9f-52249de68c25.png)
 
