@@ -23,7 +23,7 @@
 - [Download dataset for UEFA Champions League Analysis, Using Data Analytics and Machine Learning ](https://www.kaggle.com/datasets/sarangpurandare/uefa-champions-league-player-statistics)
 
 ## Project Insights 📖
-- [Download presentation slides for UEFA Champions League Analysis, Using Data Analytics and Machine Learning](https://drive.google.com/file/d/1nqXGZ2JziSGCRu0kVmiPQXglkOoUz5yR/view?usp=sharing)
+- [Download presentation slides for UEFA Champions League Analysis, Using Data Analytics and Machine Learning](https://drive.google.com/file/d/1UEoCiQTmrI9qyqeGKhJh9pN_WX6msFRE/view?usp=drive_link)
 
 ## Data Visualization 📉
 
