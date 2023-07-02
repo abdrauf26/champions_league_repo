@@ -1,8 +1,5 @@
 <img width="1080" alt="image" src="https://github.com/abdrauf26/champions_league_repo/assets/96287600/b23663ce-4103-4ab2-a2d1-7b220a57d559">
-
-
-![image](https://user-images.githubusercontent.com/96287600/170815181-d2bd7f6d-34d0-43a3-ab9f-52249de68c25.png)
-
+<img width="1080" alt="image" src="https://github.com/abdrauf26/champions_league_repo/assets/96287600/45c339ba-8b0c-40cb-8df4-ccb595c08831">
 
 ## Built With 💻
 
